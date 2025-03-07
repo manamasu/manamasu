@@ -1,5 +1,9 @@
 ![Header](./manamasu-github-profile.png)
 
+I’m currently learning many different technologies and new things everyday 🌱
+- Golang is one of these things <img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/illustrations/png/1.png" width="512" align="center">
+
+
 <!--
 **manamasu/manamasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
