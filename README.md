@@ -2,7 +2,7 @@
 
 --- 
 
-<h2> 👨‍💻⚡&nbsp;A little bit about me and my interests 👨‍💻⚡</h2>
+<h2> 👨‍💻⚡&nbsp;A little bit about me and my interests ⚡👨‍💻</h2>
 
 ```yaml
 education:
