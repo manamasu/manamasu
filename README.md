@@ -1,8 +1,59 @@
 ![Header](./manamasu-github-profile.png)
 
-I’m currently learning many different technologies and new things everyday 🌱
-- Golang is one of these things <img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/illustrations/png/1.png" width="512" align="center">
+--- 
 
+<h2> 👨‍💻⚡&nbsp;A little bit about me and my interests 👨‍💻⚡</h2>
+
+```yaml
+education:
+  [
+   "Bachelor's in Bussiness Information Systems",
+   "Self-Taught Developer",
+  ]
+
+fields_of_interests:
+  [
+    "Backend Development",
+    "Web Development",
+    "Fullstack Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+  ]
+technical_background:
+  [
+    Working student as "Frontend Web Developer"
+  ]
+  
+currently_learning: ["Golang, FastAPI"]
+hobbies: ["Sports", "Art", "Learning", "Chess"]
+```
+
+<h3> &nbsp;Learning Golang to become a Gopher&nbsp;
+  <img align="center" src="https://slackmojis.com/emojis/291-golang/download" width="64" height="64">
+</h3>
+
+<img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/illustrations/png/1.png" width="512" align="center">
+
+--- 
+
+<h2> 🚀 &nbsp;Programming languages and Frameworks I use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vueJS" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c-sharp" width="45" height="45" />
+</p>
 
 <!--
 **manamasu/manamasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
