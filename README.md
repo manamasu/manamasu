@@ -13,12 +13,9 @@ education:
 
 fields_of_interests:
   [
-    "Backend Development",
-    "Web Development",
     "Fullstack Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
     "Game Development",
   ]
 technical_background:
@@ -26,7 +23,7 @@ technical_background:
     Working student as "Frontend Web Developer"
   ]
   
-currently_learning: ["Golang, FastAPI"]
+currently_learning: ["Golang"]
 hobbies: ["Sports", "Art", "Learning", "Chess"]
 ```
 
