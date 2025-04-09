@@ -23,7 +23,7 @@ technical_background:
     Working student as "Frontend Web Developer"
   ]
   
-currently_learning: ["Golang"]
+currently_learning: ["AWS", "C#", "Golang"]
 hobbies: ["Sports", "Art", "Learning", "Chess"]
 ```
 
