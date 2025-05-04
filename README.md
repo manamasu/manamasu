@@ -7,8 +7,7 @@
 ```yaml
 education:
   [
-   "Bachelor's in Bussiness Information Systems",
-   "Self-Taught Developer",
+   "Bachelor's degree in Bussiness Information Systems"
   ]
 
 fields_of_interests:
@@ -23,7 +22,7 @@ technical_background:
     Working student as "Frontend Web Developer"
   ]
   
-currently_learning: ["AWS", "C#", "Golang"]
+currently_learning: ["AWS", "Docker", "Node.js", "C#", "Golang"]
 hobbies: ["Sports", "Art", "Learning", "Chess"]
 ```
 
@@ -31,7 +30,7 @@ hobbies: ["Sports", "Art", "Learning", "Chess"]
   <img align="center" src="https://slackmojis.com/emojis/291-golang/download" width="64" height="64">
 </h3>
 
-<img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/illustrations/png/1.png" width="512" align="center">
+<img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/illustrations/png/1.png" width="468" align="center">
 
 --- 
 
