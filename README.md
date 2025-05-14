@@ -22,13 +22,9 @@ technical_background:
     Working student as "Frontend Web Developer"
   ]
   
-currently_learning: ["AWS", "Docker", "Node.js", "C#", "Golang"]
+currently_learning: ["Docker", "Node.js", "C#", "Golang", "Data Science"]
 hobbies: ["Sports", "Art", "Learning", "Chess"]
 ```
-
-<h3> &nbsp;Learning Golang to become a Gopher&nbsp;
-  <img align="center" src="https://slackmojis.com/emojis/291-golang/download" width="64" height="64">
-</h3>
 
 <img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/illustrations/png/1.png" width="468" align="center">
 
