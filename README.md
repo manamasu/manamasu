@@ -22,7 +22,7 @@ technical_background:
     Working student as "Frontend Web Developer"
   ]
   
-currently_learning: ["Docker", "Node.js", "C#", "Golang", "Data Science"]
+currently_learning: ["Data Science", "ML/AI", "Data Engineering"]
 hobbies: ["Sports", "Art", "Learning", "Chess"]
 ```
 
