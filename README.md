@@ -22,11 +22,9 @@ technical_background:
     Working student as "Frontend Web Developer"
   ]
   
-currently_learning: ["Data Science", "ML/AI", "Data Engineering"]
+currently_learning: ["Software Development, Data Science", "ML/AI", "Data Engineering"]
 hobbies: ["Sports", "Art", "Learning", "Chess"]
 ```
-
-<img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/illustrations/png/1.png" width="468" align="center">
 
 --- 
 
